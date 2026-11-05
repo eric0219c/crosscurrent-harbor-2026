@@ -1,0 +1,3 @@
+.harbor-bot-state.json
+node_modules/
+*.db
